@@ -1,0 +1,18 @@
+# Introdução ao Git e GitHub
+
+### Tópicos fundamentais para entender o GIT
+
+- A sigla SHA significa *Secure Hash Algorithm*, é um conjunto de funções Hash criptográficas projetadas pela NSA (*agencia de segurança nacional dos EUA*);
+- A encriptação gera um conjunto de caracteres indentificador de 40 dígitos;
+- É uma forma curta de representar um arquivo;
+
+
+
+- BLOBS: tipo, tamanho do arquivo, conteúdo (guarda metadados do GIT - SHA1);
+- TREES: armazenam BLOBS, nome do SHA1, apontam para outras TREES (guarda metadados);
+- COMMITS: guardam tudo, TREES, PARENTES (histórico de alterações), AUTOR (único para cada autor), MENSAGEM, TIMESTAMP;
+
+## É um sistema distribuído seguro.
+
+ 
+

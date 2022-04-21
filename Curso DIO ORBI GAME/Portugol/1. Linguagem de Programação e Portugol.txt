@@ -1,0 +1,27 @@
+# Linguagem de Programação e Portugol
+
+É uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas/software.
+
+
+
+## O que é o Portugol?
+
+É uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independentemente de linguagem de programação.
+
+#### Exercicio 1 Portugol
+
+
+
+# BOAS PRÁTICAS
+
+SE (quando verdadeiro)
+
+SENAO (quando falso)
+
+\\\ para adicionar um comentário
+
+/n para quebra de linha
+
+cadeia = para escrever uma frase
+
+caracter = para letra só

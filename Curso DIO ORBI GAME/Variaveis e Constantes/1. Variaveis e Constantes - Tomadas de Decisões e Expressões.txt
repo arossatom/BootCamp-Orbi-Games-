@@ -1,0 +1,63 @@
+# CONTANTES E VARIAVEIS (EXERCICIO EXEMPLO PROGRAMA FLOWGORITHM)
+
+##                                    PRINCIPAL
+
+###               Real, nota1, nota2, nota 3, nota4, media
+
+​                                                                 ENTRADA NOTA 1
+
+​                                                                 ENTRADA NOTA 2
+
+​                                                                 ENTRADA NOTA 3
+
+​                                                                 ENTRADA NOTA 4
+
+###                  Média= (nota1+nota2+nota3+nota4)/4
+
+###                                            Saída média
+
+##                                            FIM
+
+
+
+### Anotações gerais
+
+Ler= entrada
+
+Escrever= saída
+
+
+
+# EXERCICIO TOMADAS DE DECISÕES E EXPRESSÕES
+
+### DECLARAR 4 VARIAVEIS
+
+- JANEIRO
+
+- FEVEREIRO
+
+- MARÇO
+
+- ABRIL
+
+  ### VALOR QUE O VENDEDOR OBTEVE DE VENDAS MAIS A MÉDIA DE VENDAS 
+
+  - SE MÉDIA >= QUE R$ 5.000.00, ABONO DE 10%
+  - SE MÉDIA <= QUE R$ 5.000,00, ABONO DE 3%
+
+  
+
+
+
+
+
+
+
+
+
+
+
+### 
+
+
+

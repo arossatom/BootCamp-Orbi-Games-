@@ -1,0 +1,30 @@
+# ESTRUTURA DE REPETIÇÃO
+
+É UMA ESTRUTURA QUE PERMITE EXECUTAR MAIS DE UMA VEZ O MESMO COMANDO OU CONJUNTO DE COMANDS DE ACORDO COM UMA CONDIÇÃO OU COM UM CONTADOR.
+
+### PRINCIPAL
+
+#### INTEIRO NUMERO, LIMITE
+
+NUMERO=9
+
+LIMITE=10
+
+#### NUMERO>=LIMITE  -------------- VERDADE
+
+ 
+
+​       FALSO                               SAÍDA "CONTAGEM ATUAL" & NUMERO 
+
+####       FIM
+
+​                                                                  ##### NUMERO + 1
+
+
+
+####               VOLTA NOVAMENTE ATÉ QUE ATINJA O LIMITE 
+
+
+
+# EXERCÍCIO FAZER A TABUADA DO 9
+
